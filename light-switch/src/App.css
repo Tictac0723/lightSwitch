@@ -1,0 +1,24 @@
+html {
+  margin: 0px;
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  margin: 0px;
+  min-height: 100%;
+  width: 100%;
+   font-family: 'Roboto', sans-serif;
+}
+
+.App {
+  text-align: center;
+}
+
+.background-dark {
+  background-color: black;
+}
+
+.background-light {
+  background-color: white;
+}
