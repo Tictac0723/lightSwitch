@@ -9,3 +9,4 @@ I used create-react-app and material-ui to build this coding challenge. For this
 4. run npm start
 
 
+Or you are able to view it on heroku at : https://light-switch-challenge.herokuapp.com/
